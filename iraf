@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Paste this in your bin folder or the $PATH and use
+
+xgterm -geometry 120x40 -fn 10x20 -sb -title "Image Reduction and Analysis Facility (IRAF)" -e "cl" &
